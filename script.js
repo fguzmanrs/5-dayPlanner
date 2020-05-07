@@ -59,6 +59,6 @@ setInterval(function() {
 var saveBtn = $('.saveBtn');
 saveBtn.on('click', function(){
     let eventId = $(this).attr('id');
-    let eventText = $(this).parent().siblings().children('.description').val();
+    let eventText = $(this).parent().siblings().children('.event').val();
     localStorage.setItem(eventId, eventText);
 });});
