@@ -17,7 +17,7 @@ $(document).ready(function() {
         var colHour = $('<div class="col-sm-2"> <p class="hour">' + formatAMPM(i) + '</p>');
 
         // EVENT column
-        var colEvent = $(`<div class="col-sm-8 past"><textarea id=text${i} class="event" placeholder="Add event here"></textarea>`);        
+        var colEvent = $(`<div class="col-sm-8 past"><textarea id=text${i} class="event" placeholder="+"></textarea>`);        
        
         // SAVE column
         var colSave = $(`<div class="col-sm-2"><button class="saveBtn" id=${i}><i class="fas fa-save"></i></button>`)
