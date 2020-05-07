@@ -16,6 +16,8 @@ body {
     border-bottom: 10px solid black;
   }
 
+  /* #quote{} */
+
   .row {
     white-space: pre-wrap;
     height: 80px;
