@@ -26,7 +26,7 @@ Poor time management can result in missed meetings, deadlines, and create the ap
 
 * Each time slot is color coded to indicate if the event is in the past, present, or future. Colors change to reflect the time of day.
 
-![Daily Planner](assets/5-dailyPlanner.jpg?raw=true)
+![Daily Planner](assets/5-dailyPlanner.png?raw=true)
 
 <!-- Refer to GIF below for an app demo. -->
 
